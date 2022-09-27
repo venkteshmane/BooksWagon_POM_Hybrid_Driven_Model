@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.booksWagon.qa.extentReports.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.qa.booksWagon.testcases.WishListPageTest">
+        <methods>
+          <include name="addWishlist_AuthorNameTest"/>
+          <include name="addWishlist_PublisherTest"/>
+          <include name="setUp"/>
+          <include name="search_BookNameTest"/>
+          <include name="feature_authTest"/>
+          <include name="wishlist_Test"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.booksWagon.testcases.WishListPageTest -->
+      <class name="com.qa.booksWagon.testcases.AddAddressTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="add_Address_Test"/>
+          <include name="tearDown"/>
+          <include name="AddAddressPaheTitleTest"/>
+        </methods>
+      </class> <!-- com.qa.booksWagon.testcases.AddAddressTest -->
+      <class name="com.qa.booksWagon.testcases.SearchBookPageTest">
+        <methods>
+          <include name="validateSearchPageTitle"/>
+          <include name="setUp"/>
+          <include name="verifySearchPageTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.booksWagon.testcases.SearchBookPageTest -->
+      <class name="com.qa.booksWagon.testcases.LoginPageTest">
+        <methods>
+          <include name="ImageTest"/>
+          <include name="loginPageurUrlTest"/>
+          <include name="loginPageTitleTest"/>
+          <include name="loginTest"/>
+          <include name="tearDown"/>
+          <include name="MultipleUserLoginTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.booksWagon.testcases.LoginPageTest -->
+      <class name="com.qa.booksWagon.testcases.HomePageTest">
+        <methods>
+          <include name="verifyUserNameTest"/>
+          <include name="HomePageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="verifyClickOnLogout"/>
+        </methods>
+      </class> <!-- com.qa.booksWagon.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,63 @@
+2022-09-26 22:27:24 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-26 22:27:48 INFO  HomePageTest:31 - ************Login the Application**********************
+  2022-09-26 22:27:48 INFO  HomePageTest:32 - Open Home Page
+  2022-09-26 22:27:48 INFO  HomePageTest:37 - ****** starting test case ******
+  2022-09-26 22:27:48 INFO  HomePageTest:38 - Opening Home Page
+  2022-09-26 22:27:50 INFO  HomePageTest:42 - Title Verified Successfully.....
+  2022-09-26 22:27:51 INFO  HomePageTest:68 - browser is closed
+  2022-09-26 22:27:51 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-26 22:28:08 INFO  HomePageTest:31 - ************Login the Application**********************
+  2022-09-26 22:28:08 INFO  HomePageTest:32 - Open Home Page
+  2022-09-26 22:28:08 INFO  HomePageTest:48 - ****** starting test case ******
+  2022-09-26 22:28:08 INFO  HomePageTest:49 - ******* verifyUserNameTest ******
+  2022-09-26 22:28:08 INFO  HomePageTest:53 - UserName Verified Successfully.....
+  2022-09-26 22:28:10 INFO  HomePageTest:68 - browser is closed
+  2022-09-26 22:28:10 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-26 22:28:24 INFO  HomePageTest:31 - ************Login the Application**********************
+  2022-09-26 22:28:24 INFO  HomePageTest:32 - Open Home Page
+  2022-09-26 22:28:25 INFO  HomePageTest:58 - ****** starting test case ******
+  2022-09-26 22:28:25 INFO  HomePageTest:59 - ******* verifyClickOnLogout ******
+  2022-09-26 22:28:34 INFO  HomePageTest:68 - browser is closed
+  2022-09-26 22:48:15 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-26 22:53:41 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-26 23:06:49 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-26 23:07:02 INFO  HomePageTest:31 - ************Login the Application**********************
+  2022-09-26 23:07:02 INFO  HomePageTest:32 - Open Home Page
+  2022-09-26 23:07:02 INFO  HomePageTest:37 - ****** starting test case ******
+  2022-09-26 23:07:02 INFO  HomePageTest:38 - Opening Home Page
+  2022-09-26 23:07:04 INFO  HomePageTest:42 - Title Verified Successfully.....
+  2022-09-26 23:07:05 INFO  HomePageTest:68 - browser is closed
+  2022-09-26 23:07:05 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-26 23:07:16 INFO  HomePageTest:31 - ************Login the Application**********************
+  2022-09-26 23:07:16 INFO  HomePageTest:32 - Open Home Page
+  2022-09-26 23:07:16 INFO  HomePageTest:48 - ****** starting test case ******
+  2022-09-26 23:07:16 INFO  HomePageTest:49 - ******* verifyUserNameTest ******
+  2022-09-26 23:07:16 INFO  HomePageTest:53 - UserName Verified Successfully.....
+  2022-09-26 23:07:17 INFO  HomePageTest:68 - browser is closed
+  2022-09-26 23:07:17 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-26 23:07:28 INFO  HomePageTest:31 - ************Login the Application**********************
+  2022-09-26 23:07:28 INFO  HomePageTest:32 - Open Home Page
+  2022-09-26 23:07:28 INFO  HomePageTest:58 - ****** starting test case ******
+  2022-09-26 23:07:28 INFO  HomePageTest:59 - ******* verifyClickOnLogout ******
+  2022-09-26 23:07:38 INFO  HomePageTest:68 - browser is closed
+  2022-09-27 14:02:04 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-27 14:02:16 INFO  HomePageTest:31 - ************Login the Application**********************
+  2022-09-27 14:02:16 INFO  HomePageTest:32 - Open Home Page
+  2022-09-27 14:02:17 INFO  HomePageTest:37 - ****** starting test case ******
+  2022-09-27 14:02:17 INFO  HomePageTest:38 - Opening Home Page
+  2022-09-27 14:02:19 INFO  HomePageTest:42 - Title Verified Successfully.....
+  2022-09-27 14:02:19 INFO  HomePageTest:68 - browser is closed
+  2022-09-27 14:02:19 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-27 14:02:32 INFO  HomePageTest:31 - ************Login the Application**********************
+  2022-09-27 14:02:32 INFO  HomePageTest:32 - Open Home Page
+  2022-09-27 14:02:33 INFO  HomePageTest:48 - ****** starting test case ******
+  2022-09-27 14:02:33 INFO  HomePageTest:49 - ******* verifyUserNameTest ******
+  2022-09-27 14:02:33 INFO  HomePageTest:53 - UserName Verified Successfully.....
+  2022-09-27 14:02:34 INFO  HomePageTest:68 - browser is closed
+  2022-09-27 14:02:34 INFO  HomePageTest:27 - ****** Starting test cases execution  *******
+  2022-09-27 14:02:48 INFO  HomePageTest:31 - ************Login the Application**********************
+  2022-09-27 14:02:48 INFO  HomePageTest:32 - Open Home Page
+  2022-09-27 14:02:48 INFO  HomePageTest:58 - ****** starting test case ******
+  2022-09-27 14:02:48 INFO  HomePageTest:59 - ******* verifyClickOnLogout ******
+  2022-09-27 14:02:57 INFO  HomePageTest:68 - browser is closed
+  
